@@ -10,7 +10,6 @@ Las bases de datos son componentes esenciales de los sistemas de información de
  - 50% - Parciales
 ### Profesor que dictó el curso
 Rodrigo Humberto Gualtero Martínez
-Contacto vía e-mail: [RODRIGO GUALTERO](mailto:rodrigo.gualtero-m@escuelaing.edu.co)
 ### Contenido visto en el curso
 1. Conceptos básicos.
 2. Diseño conceptual.
