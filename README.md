@@ -18,13 +18,12 @@ Rodrigo Humberto Gualtero Martínez
 5. Modelo jerárquico.
 6. Diseño físico relacional.
 7. Administración de bases de datos relacionales.
-### ¿En qué herramientas y lenguajes se trabajó?
 - **Herramientas**
-       - Herramienta de desarrollo - [ORACLE](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
-       - Introducción a SQL con tutoriales - [Sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-       - Herramienta de modelado - [Astah*](https://astah.net/)
-       - Generador de datos - [Mockaroo](https://mockaroo.com/)
+	- Herramienta de desarrollo - [ORACLE](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
+	- Introducción a SQL con tutoriales - [Sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+	- Herramienta de modelado - [Astah*](https://astah.net/)
+	- Generador de datos - [Mockaroo](https://mockaroo.com/)
 - **Lenguajes**
-    -UML
-    -Álgebra relacional
-    -Cálculo relacional
+	- UML
+	- Álgebra relacional
+	- Cálculo relacional
